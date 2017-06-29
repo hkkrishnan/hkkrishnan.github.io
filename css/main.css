@@ -2778,9 +2778,9 @@ span.stButton_gradient,
 /*Image Gallery */
 
 .gallery {
-  width: 640px;
+  width: 1000px;
   margin: 0 auto;
-  padding: 5px;
+  padding: 10px;
   background: #fff;
   box-shadow: 0 1px 2px rgba(0,0,0,.3);
 }
@@ -2793,19 +2793,12 @@ span.stButton_gradient,
 
 .gallery > div > img {
   display: block;
-  width: 200px;
+  width: 300px;
   transition: .1s transform;
   transform: translateZ(0); /* hack */
 }
 
-.gallery > div:hover {
-  z-index: 1;
-}
 
-.gallery > div:hover > img {
-  transform: scale(1.7,1.7);
-  transition: .3s transform;
-}
 
 .cf:before, .cf:after {
   display: table;

@@ -18,7 +18,7 @@
 
 <body>
     
-<?php require_once "header.php"; ?>
+<?php require_once "header.html; ?>
 
 <section id="page-breadcrumb">
         <div class="vertical-center sun">

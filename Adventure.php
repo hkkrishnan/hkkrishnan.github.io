@@ -12,13 +12,15 @@
     <link href="css/lightbox.css" rel="stylesheet"> 
     <link href="css/main.css" rel="stylesheet">
     <link href="css/responsive.css" rel="stylesheet">
-
     <link rel="shortcut icon" href="images/ico/favicon.ico">
+
 </head><!--/head-->
 
 <body>
-    
-<?php require_once "header.html; ?>
+
+<?
+php include 'header.php';
+?>
 
 <section id="page-breadcrumb">
         <div class="vertical-center sun">

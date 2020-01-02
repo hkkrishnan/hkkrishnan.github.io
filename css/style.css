@@ -320,11 +320,11 @@ b, strong { font-weight: bold; }
 	.page p.page-desc {
 		color: #222;
 		font-family: 'Roboto Slab', Georgia, serif;
-		font-size: 34px;
+		font-size: 25px;
 		line-height: 60px;
 		font-weight: 300; 
-		margin-top: 30px;
-		margin-bottom: 50px;
+		margin-top: 5px;
+		margin-bottom: 5px;
 	}
 
 		@media screen and (max-width: 767px) { 
@@ -656,11 +656,11 @@ b, strong { font-weight: bold; }
 
 		.box-about p.tagline {
 			font-family: 'Roboto Slab', Georgia, serif;
-			font-size: 24px;
+			font-size: 18px;
 			line-height: 44px;
 			font-weight: 300; 
-			margin-top: 30px;
-			margin-bottom: 30px;
+			margin-top: 5px;
+			margin-bottom: 5px;
 		}
 
 	@media screen and (max-width: 767px) { 

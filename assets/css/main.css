@@ -2061,4 +2061,8 @@ button,
   background-color: white;
   display: none;
   overflow: hidden;
+} 
+
+.panel.show {
+    display: block !important;
 }
